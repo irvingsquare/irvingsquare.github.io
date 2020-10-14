@@ -7,8 +7,7 @@
 
 body {
   font-size: 48px;
-  background-color: black;
-  color: white;
+  color: #002366;
 }
 
 .container {
@@ -20,7 +19,7 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  border: 10px white solid;
+  border: 10px solid;
   padding: 30px 50px;
   max-width: 30%;
   margin: 0 auto;
